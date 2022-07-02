@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+header{
+    background-color:lightblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+footer{
+    background-color: lightpink;
+        padding: 5px;
+        border-radius: 10px;
+}
+footer p{
+    background-color: white;
+}
+.po{
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+img {
+    background-color: lightgreen;
+    border-radius: 10px;
+    padding: 20px;
+
+}
